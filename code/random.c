@@ -1,5 +1,5 @@
 #include <math.h>
-#include "ribbon_edit.h"
+#include "sadrib.h"
 #include "random.h"
 
 double ran2(long *idum){
